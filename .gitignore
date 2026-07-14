@@ -1,0 +1,9 @@
+# Raw source assets — derived into frames/ and images/, not needed to run the site
+/Car_rotation_intact_to_expanded_*.mp4
+/Lamborghini_Centenario_*.jpeg
+/ezgif-*.zip
+/scroll animation.txt
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
